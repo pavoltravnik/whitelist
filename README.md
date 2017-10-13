@@ -1,4 +1,7 @@
 # Whitelist
+
+Cyphernomicron mentioned reputation in 2.12.2., but reputation is not feasible without strong liability system. This is caused by transparency anonymity paradox. While user can stay anonymous and reputation can be built, it is not possible to avoid a risk of analysis of the reputation system without revealing true identity of the user.
+
 I propose a system Whitelist, where reputation is interconnected between pseudo-identities and it is based on shared liability. Person use fraction of its property to ensure others, that he will not commit specific act. It is possible, by networking effect, to create **liability system based on shared interconnected liability** based on real connections and trust.
 
 Everybody in a sub-culture can trust each other only if there is binding rule between members.
